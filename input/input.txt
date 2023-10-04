@@ -1,0 +1,13 @@
+[{"type": "CUSTOMER", "verb": "UPDATE", "key": "96f55c7d8f42", "event_time": "2017-01-06T12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e81550242f", "event_time": "2017-01-06T12:45:52.041Z", "customer_id": "96f55c7d8f42", "tags": [{"some key": "some value"}]},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d942f", "event_time": "2017-01-06T12:47:12.344Z", "customer_id": "96f55c7d8f42", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a4342", "event_time": "2017-01-06T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "12.34 USD"},
+{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f40", "event_time": "2017-01-07T12:46:46.384Z", "last_name": "Smith1", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a4442", "event_time": "2017-01-16T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "20.34 USD"},
+{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f42", "event_time": "2017-01-05T12:46:46.384Z", "last_name": "Smith2", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f43", "event_time": "2017-01-06T12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e81550243f", "event_time": "2017-01-06T12:45:52.041Z", "customer_id": "96f55c7d8f43", "tags": [{"some key": "some value"}]},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d943f", "event_time": "2017-01-06T12:47:12.344Z", "customer_id": "96f55c7d8f43", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a4343", "event_time": "2017-01-06T12:55:55.555Z", "customer_id": "96f55c7d8f43", "total_amount": "12.34 USD"},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e81550243d", "event_time": "2017-01-06T12:45:52.041Z", "customer_id": "96f55c7d8f43", "tags": [{"some key": "some value"}]}
+]

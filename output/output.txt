@@ -1,0 +1,1 @@
+[{"customer_id": "96f55c7d8f42", "ltv": 36.31}, {"customer_id": "96f55c7d8f43", "ltv": 27.42}]
