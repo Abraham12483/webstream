@@ -1,4 +1,4 @@
-"""Application to ingest streaming data from online website and store in an analytical system"""
+"""Application to ingest streaming data from online website and calculate LTV"""
 
 import json
 import operator
